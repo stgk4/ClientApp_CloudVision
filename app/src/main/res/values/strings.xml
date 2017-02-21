@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ClientApp</string>
+    <string name="image_message">Upload your image here...</string>
+    <string name="image_message_upload">You have selected this image...</string>
+    <string name="image_message_camera">You have clicked this image...</string>
+    <string name="button_text_submit">Submit to Server</string>
+    <string name="button_text_browse">Browse on phone</string>
+    <string name="button_text_camera">Take picture</string>
+
+    <string name="toast_message_image_not_selected">You have not selected an Image...</string>
+    <string name="toast_message_no_image_to_submit">No image to submit...</string>
+    <string name="toast_message_image_submitted">Image submitted to server successfully...</string>
+    <string name="toast_message_selection_error">Something went wrong while processing the image...</string>
+    <string name="toast_message_capture_error">Something went wrong while capturing an image...</string>
+    <string name="toast_message_file_error">Something went wrong while creating a file for an image capture...</string>
+</resources>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_5f78893bc45e448d6f3f2365dab6c9c5adc294fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_f737a69ddc8f3a46344053a6b85df0d284f7eee1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3328bb0e30cee6819acb50d79c957e0cbe7a8b02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_2fc957dfe81f3852a0de52e5e3ece2ed8e08fbea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_f46a237768a20368471d88a2667d04b40526803e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c85242dc1d37fafd522859af945958808196787f">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_317d237b4e6af351920b56c356846c391819ea2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_50311946f02ac23479c83699362917fb1fde7645\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_a5439ef01f8318df24a37b52e6dd599d881b9233\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_abf9f25cba2c5ffdb33fce1626ea2045e422c2c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_2377cabaf003e11b263af0b89d16cc4bd1eb0d4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ff1bf8ca7bacbde2f6c790c440357092cae6416e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65a14a4ce69a4d987b7843fcb18372136d477fd1">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0f2e2f187be6ac9c7fb0b73307a56285145319af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_a479cac5bd5e0913867da9d12702ac8ca8385708\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_b15e6969088b798e18123736db570c28f247590e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_e6fe358f52d9d4da1852ade5fd1bc38bb079461f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_36dc057ffff3dc882693ff40270ab70cb07de70e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\thandus\AndroidStudioProjects\ClientApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3776c831fd8da80ab4d363544f7a15e264b97298\classes.dex" />
+    </item>
+
+</items>
